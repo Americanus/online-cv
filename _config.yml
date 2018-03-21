@@ -17,18 +17,17 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Alan Doe
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I am now a Ph.D. student at Tandon school of Engineering, New York University. I am working with Prof. Theodore S. Rappaport to develop
+the next generation wireless communications technology (5G). My research interests mainly focus on millimeter-wave communications, deep learning,
+ channel modeling and neural networks.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: sj2509@nyu.edu
+phone: (1) 929-454-8449
+website: http://engineering.nyu.edu/people/shihao-ju
+linkedin: TBD
+github: Americanus
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
