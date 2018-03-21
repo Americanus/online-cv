@@ -1,1 +1,1 @@
-This is resume of Shihao Ju.
+Here is the resume of Shihao Ju.
